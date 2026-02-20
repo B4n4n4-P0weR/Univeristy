@@ -1,68 +1,85 @@
-# Учебный репозиторий — ДВФУ, ПИЭ 09.03.03 (2021–2025)
+# Academic Portfolio — FEFU, Applied Informatics in Economics (2021–2025)
 
-## Описание
+## Overview
 
-Данный репозиторий содержит учебные материалы от преподавателей, курсовые проекты, лабораторные работы и вспомогательные файлы, собранные в ходе обучения на направлении (Б9121) 09.03.03 Прикладная информатика в экономике (ПИЭ) в Дальневосточном федеральном университете (ДВФУ). 
+This repository is a structured archive of university coursework, lab assignments, term projects, practice materials, and thesis-related work completed during the bachelor's program in **Applied Informatics in Economics** (09.03.03), at **Far Eastern Federal University (FEFU)** in 2021-2025.
 
-**Представлены материалы с 3 по 8 семестр**. То есть репозиторий содержит не полный комплект учебных материалов, так как ранее систематизированный сбор файлов не осуществлялся.
+The materials cover **semesters 3 through 10** and reflect a practical learning path across software engineering, databases, information systems, data processing, networking, cybersecurity, IT project management, and business-focused information technologies. v
 
-## Структура репозитория
+## Repository Structure
 
-Структура организована по семестрам. Внутри каждого семестра — директории по дисциплинам.
+The repository is organized by semester. Each semester directory contains materials grouped by course or project.
 
-### 📁 Третий семестр
-- Алгоритмы и структуры данных  
-- Информационные системы и технологии / Основы объектно-ориентированного программирования и алгоритмизации (ИСИТ и ООПиА)
+### Semester 03
+- Algorithms and Data Structures
+- Information Systems and Technologies / Object-Oriented Programming and Algorithmization
 
-### 📁 Четвёртый семестр
-- Web-программирование и дизайн  
-- Базы данных  
-- Курсовая работа по базам данных  
-- Правоведение  
-- Практика  
-- Системный анализ и математическая статистика
+### Semester 04
+- Web Programming and Design
+- Databases
+- Database Term Project
+- Law Studies
+- Internship Practice
+- Systems Analysis and Mathematical Statistics
 
-### 📁 Пятый семестр
-- Базы данных 2 / Лабораторная работа 1  
-- Курсовая работа по программной инженерии  
-- Программная инженерия  
-- Системный анализ и моделирование систем  
-- Теория принятия решений
+### Semester 05
+- Databases (2)
+- Software Engineering
+- Software Engineering Term Project
+- Systems Analysis and System Modeling
+- Decision Theory
 
-### 📁 Шестой семестр
-- Информационные технологии в бухгалтерском учёте и налогообложении  
-- Курсовая по программной инженерии  
-- Практика  
-- Проектирование информационных систем  
-- Разработка интерфейсов  
-- Теоретические основы и технологии обработки больших данных  
-- Теория принятия решений 2  
-- Физкультура  
-- Эконометрика
+### Semester 06
+- Accounting and Taxation Information Technologies
+- Interface Development
+- Internship Practice
+- Information Systems Design
+- Information Systems Desing Term Project
+- Big Data Fundamentals and Processing Technologies
+- Decision Theory (2)
+- Econometrics
 
-### 📁 Седьмой семетр
-- Big Data Labs 2: **Dark Side of the Moon*  
-- Высокопроизводительные вычисления, облачные сервисы, виртуализация и суперкомпьютерные технологии  
-- Информационная безопасность  
-- Корпоративные информационные системы  
-- Курсовая по ИТ-проектам  
-- Курсовая по проектированию информационных систем  
-- Теоретические основы и технологии обработки больших данных  
-- Управление ИТ-проектами
+### Semester 07
+- Artificial Intelligence
+- High-Performance Computing, Cloud Services, Virtualization, and Supercomputing Technologies
+- Information Security
+- Enterprise Information Systems
+- IT Project Management
+- IT Projects Term Paper
+- Information Systems Design Term Paper
+- Big Data Fundamentals and Processing Technologies
 
-### 📁 Восьмой семестр
-- Корпоративные информационные системы  
-- Курсовая по КИС  
-- Сетевые технологии и системное администрирование  
-- Экономическая эффективность информационных систем
+### Semester 08
+- Enterprise Information Systems
+- Enterprise Information Systems Term Project
+- Network Technologies and System Administration
+- Economic Efficiency of Information Systems
 
-## Назначение
+### Thesis
+- Pre-graduation practice materials
+- Thesis research and supporting documents
 
-Репозиторий представляет собой структурированный архив учебных материалов, организованных по семестрам. Первоначально создавался для оперативного доступа в процессе обучения, но в дальнейшем предназначается в большей степени для студентов младших курсов как справочник по дисциплинам, лабораторным и курсовым работам. Также может использоваться в ретроспективных целях — как личный цифровой след и напоминание о пройденном образовательном пути.
+### Semester 09
+- Software Verification
+- Artificial Intelligence (2)
+- Network Technologies
 
-## Автор
+### Semester 10
+- Database Management Systems
+- Compiler Technologies
+- Operational Systems (nda)
 
-**Туровец Владислав Юрьевич**
 
-Студент ПИЭ ДВФУ  
-Период обучения: **2021–2025**
+## Purpose
+
+The repository serves as a personal academic knowledge base and a portfolio of hands-on university work. It documents the progression from foundational programming and data structures to applied software engineering, information systems design, data-intensive technologies, networking, security, and final thesis preparation.
+
+For resume and portfolio purposes, this archive highlights consistent practical experience with technical coursework, project documentation, analytical assignments, and applied information systems in an economics-focused curriculum.
+
+## Author
+
+**Vladislav Turovets Yuryevich**
+
+Bachelor's student in Applied Informatics in Economics  
+Far Eastern Federal University  
+Study period: **2021–2025**
