@@ -69,7 +69,8 @@ The repository is organized by semester. Each semester directory contains materi
 - Economic Efficiency of Information Systems
 
 ### Thesis
-- Pre-graduation practice materials
+- Pre-graduation Practice (1)
+- Pre-graduation Practice (2)
 - Thesis research and supporting documents
 
 ## Master's Degree — HSE, 2025-2027
